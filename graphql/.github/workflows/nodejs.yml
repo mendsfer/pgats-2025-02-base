@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Trabalho Final de Automação de Testes na Camada de Serviço (API)
 
 on:
   push:
